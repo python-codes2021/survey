@@ -1,5 +1,6 @@
 # survey
-Here's a survey you can edit. Copy/paste it into this python complier https://www.programiz.com/python-programming/online-compiler/
+Here's a survey you can edit. Copy/paste it into this python complier https://www.programiz.com/python-programming/online-compiler/ click RAW to view
+the actual proper code
 Thanks
 
 import time
@@ -13,3 +14,4 @@ print("Status: ")
 print("First name:", name1)
 print("Last name:", name2)
 print("Age:", age)
+ 
