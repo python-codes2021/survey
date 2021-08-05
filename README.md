@@ -1,5 +1,5 @@
 # survey
-Here's a survey you can edit. Copy/paste it into this python complier https://www.programiz.com/python-programming/online-compiler/ click RAW to view
+Here's a survey you can edit. Copy/paste it into this python complier https://www.programiz.com/python-programming/online-compiler/ click BLAME to view
 the actual proper code
 Thanks
 
